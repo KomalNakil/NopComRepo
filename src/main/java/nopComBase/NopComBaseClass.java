@@ -27,6 +27,8 @@ public class NopComBaseClass {
 		nopComUtility.waitTime(driver, 1000);
 		driver.close();
 		
+		//added this comment for nopcomb2
+		
 	}
 
 }
