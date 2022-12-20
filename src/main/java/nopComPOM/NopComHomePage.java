@@ -6,6 +6,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import nopComUtility.nopComUtility;
 
+
+//added comments..
+//hjj
+//nnmnnn
 public class NopComHomePage {
 	@FindBy(xpath="//a[@class='ico-account']") private WebElement myAccoutTab;
 	
