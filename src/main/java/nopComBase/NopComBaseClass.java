@@ -12,6 +12,8 @@ public class NopComBaseClass {
 	public void launchNopCommerce() throws IOException
 	{
 		//This is Base Class-- just adding comment
+		//added cmt in github
+		//....
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Testing Project\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
